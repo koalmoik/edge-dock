@@ -16,13 +16,13 @@ Nothing else: no settings, no effects, no polling — everything is event driven
 
 ```sh
 git clone https://github.com/koalmoik/edge-dock.git
-ln -s "$PWD/edge-dock/extension" ~/.local/share/gnome-shell/extensions/edge-dock@peter
+ln -s "$PWD/edge-dock/extension" ~/.local/share/gnome-shell/extensions/edge-dock@koalmoik.github.io
 ```
 
 Log out and back in (Wayland), then enable it:
 
 ```sh
-gnome-extensions enable edge-dock@peter
+gnome-extensions enable edge-dock@koalmoik.github.io
 ```
 
 ## Tweaks

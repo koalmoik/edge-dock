@@ -1,5 +1,5 @@
 {
-  "uuid": "edge-dock@peter",
+  "uuid": "edge-dock@koalmoik.github.io",
   "name": "Edge Dock",
   "description": "Minimal auto-hiding dock: the GNOME dash appears when the pointer touches the bottom screen edge.",
   "shell-version": ["50", "51"],
